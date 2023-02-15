@@ -1,0 +1,1 @@
+C:\Users\vgritsenko\Desktop\BB_Task_HandDataDragonfly\Intermediate\Build\Win64\UE4\Development\HandTrackingGrab\Definitions.HandTrackingGrab.h

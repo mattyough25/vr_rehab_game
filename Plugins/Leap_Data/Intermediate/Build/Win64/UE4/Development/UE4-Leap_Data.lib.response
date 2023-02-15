@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4\Development\Leap_Data\Module.Leap_Data.cpp.obj"
+"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Intermediate\Build\Win64\UE4\Development\Leap_Data\PCLaunch.rc.res"
+/OUT:"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\Leap_Data\Binaries\Win64\UE4-Leap_Data.lib"

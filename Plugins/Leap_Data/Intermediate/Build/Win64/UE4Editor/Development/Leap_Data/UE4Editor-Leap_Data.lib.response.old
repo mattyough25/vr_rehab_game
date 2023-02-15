@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Leap_Data.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task 4.26\Intermediate\Build\Win64\VR_Reaching_TaskEditor\Development\Core\SharedPCH.Core.h.obj"
+"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task 4.26\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4Editor\Development\Leap_Data\Leap_Data.cpp.obj"
+"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task 4.26\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4Editor\Development\Leap_Data\Default.rc2.res"
+/OUT:"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task 4.26\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4Editor\Development\Leap_Data\UE4Editor-Leap_Data.lib"
+/INCLUDE:IMPLEMENT_MODULE_Leap_Data

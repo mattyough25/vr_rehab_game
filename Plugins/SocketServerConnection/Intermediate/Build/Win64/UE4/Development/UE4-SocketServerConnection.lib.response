@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\SocketServerConnection\Intermediate\Build\Win64\UE4\Development\SocketServerConnection\Module.SocketServerConnection.cpp.obj"
+"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\SocketServerConnection\Intermediate\Build\Win64\UE4\Development\SocketServerConnection\Module.SocketServerConnection.gen.cpp.obj"
+"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Intermediate\Build\Win64\UE4\Development\SocketServerConnection\PCLaunch.rc.res"
+/OUT:"C:\Repositories\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\SocketServerConnection\Binaries\Win64\UE4-SocketServerConnection.lib"

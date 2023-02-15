@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Leap_Data.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.h.obj"
+"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4Editor\Development\Leap_Data\Module.Leap_Data.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Leap_Data\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\vgritsenko\Desktop\vr_reaching_task\VR_Reaching_Task\Plugins\Developer\Leap_Data\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Leap_Data.lib"

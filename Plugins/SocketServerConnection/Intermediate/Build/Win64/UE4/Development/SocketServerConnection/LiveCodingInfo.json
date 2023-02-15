@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SocketServerConnection.cpp.obj": [
+			"ConnectionActorUber.cpp.obj",
+			"SaCrossplatform.cpp.obj",
+			"SaSocket.cpp.obj",
+			"SaSocketApi.cpp.obj",
+			"SocketServerConnection.cpp.obj"
+		],
+		"Module.SocketServerConnection.gen.cpp.obj": [
+			"ConnectionActorUber.gen.cpp.obj",
+			"SocketServerConnection.init.gen.cpp.obj"
+		]
+	}
+}

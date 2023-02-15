@@ -1,0 +1,185 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AConnectionActorUberStorage;
+#ifdef SOCKETSERVERCONNECTION_ConnectionActorUber_generated_h
+#error "ConnectionActorUber.generated.h already included, missing '#pragma once' in ConnectionActorUber.h"
+#endif
+#define SOCKETSERVERCONNECTION_ConnectionActorUber_generated_h
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_SPARSE_DATA
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_RPC_WRAPPERS
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_RPC_WRAPPERS_NO_PURE_DECLS
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAConnectionActorUberStorage(); \
+	friend struct Z_Construct_UClass_AConnectionActorUberStorage_Statics; \
+public: \
+	DECLARE_CLASS(AConnectionActorUberStorage, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SocketServerConnection"), NO_API) \
+	DECLARE_SERIALIZER(AConnectionActorUberStorage)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_INCLASS \
+private: \
+	static void StaticRegisterNativesAConnectionActorUberStorage(); \
+	friend struct Z_Construct_UClass_AConnectionActorUberStorage_Statics; \
+public: \
+	DECLARE_CLASS(AConnectionActorUberStorage, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SocketServerConnection"), NO_API) \
+	DECLARE_SERIALIZER(AConnectionActorUberStorage)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AConnectionActorUberStorage(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AConnectionActorUberStorage) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AConnectionActorUberStorage); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AConnectionActorUberStorage); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AConnectionActorUberStorage(AConnectionActorUberStorage&&); \
+	NO_API AConnectionActorUberStorage(const AConnectionActorUberStorage&); \
+public:
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AConnectionActorUberStorage(AConnectionActorUberStorage&&); \
+	NO_API AConnectionActorUberStorage(const AConnectionActorUberStorage&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AConnectionActorUberStorage); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AConnectionActorUberStorage); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AConnectionActorUberStorage)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_PRIVATE_PROPERTY_OFFSET
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_33_PROLOG
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_PRIVATE_PROPERTY_OFFSET \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_SPARSE_DATA \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_RPC_WRAPPERS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_INCLASS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_PRIVATE_PROPERTY_OFFSET \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_SPARSE_DATA \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_RPC_WRAPPERS_NO_PURE_DECLS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_INCLASS_NO_PURE_DECLS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_36_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SOCKETSERVERCONNECTION_API UClass* StaticClass<class AConnectionActorUberStorage>();
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_SPARSE_DATA
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execpullOutPhaseSpaceData); \
+	DECLARE_FUNCTION(execgenerateDataVectorForOutput); \
+	DECLARE_FUNCTION(execupdateOutDataAfterWriting); \
+	DECLARE_FUNCTION(execupdateInDataBeforeReading); \
+	DECLARE_FUNCTION(execshutDownServer); \
+	DECLARE_FUNCTION(execstartServer);
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execpullOutPhaseSpaceData); \
+	DECLARE_FUNCTION(execgenerateDataVectorForOutput); \
+	DECLARE_FUNCTION(execupdateOutDataAfterWriting); \
+	DECLARE_FUNCTION(execupdateInDataBeforeReading); \
+	DECLARE_FUNCTION(execshutDownServer); \
+	DECLARE_FUNCTION(execstartServer);
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAConnectionActorUber(); \
+	friend struct Z_Construct_UClass_AConnectionActorUber_Statics; \
+public: \
+	DECLARE_CLASS(AConnectionActorUber, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SocketServerConnection"), NO_API) \
+	DECLARE_SERIALIZER(AConnectionActorUber)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_INCLASS \
+private: \
+	static void StaticRegisterNativesAConnectionActorUber(); \
+	friend struct Z_Construct_UClass_AConnectionActorUber_Statics; \
+public: \
+	DECLARE_CLASS(AConnectionActorUber, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/SocketServerConnection"), NO_API) \
+	DECLARE_SERIALIZER(AConnectionActorUber)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AConnectionActorUber(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AConnectionActorUber) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AConnectionActorUber); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AConnectionActorUber); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AConnectionActorUber(AConnectionActorUber&&); \
+	NO_API AConnectionActorUber(const AConnectionActorUber&); \
+public:
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AConnectionActorUber(AConnectionActorUber&&); \
+	NO_API AConnectionActorUber(const AConnectionActorUber&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AConnectionActorUber); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AConnectionActorUber); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AConnectionActorUber)
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_PRIVATE_PROPERTY_OFFSET
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_76_PROLOG
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_PRIVATE_PROPERTY_OFFSET \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_SPARSE_DATA \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_RPC_WRAPPERS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_INCLASS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_PRIVATE_PROPERTY_OFFSET \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_SPARSE_DATA \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_RPC_WRAPPERS_NO_PURE_DECLS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_INCLASS_NO_PURE_DECLS \
+	VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h_79_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> SOCKETSERVERCONNECTION_API UClass* StaticClass<class AConnectionActorUber>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID VR_Reaching_Task_4_27_Plugins_Developer_SocketServerConnection_Source_SocketServerConnection_Public_ConnectionActorUber_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

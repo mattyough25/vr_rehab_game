@@ -1,0 +1,1378 @@
+﻿Log file open, 10/06/21 18:33:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HandTrackingGrab
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.973551
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TcpSocketPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin GoogleVRController
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Vive_Tracker_Data
+LogPluginManager: Mounting plugin NEL_DAQ_Examples
+LogPluginManager: Mounting plugin SocketServerConnection
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin PhaseSpaceData
+LogPluginManager: Mounting plugin Leap_Data
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:208][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:214][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.06-22.33.54:214][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.06-22.33.54:215][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.06-22.33.54:215][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.06-22.33.54:215][  0]LogHAL: Display: Platform has ~ 16 GB [16888762368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.06-22.33.54:215][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.06-22.33.54:215][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Scalability.ini]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.06-22.33.54:216][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.06-22.33.54:218][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.06-22.33.54:218][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.06-22.33.54:218][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.06-22.33.54:218][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Engine.ini]
+[2021.10.06-22.33.54:218][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Config/Windows/Editor.ini]
+[2021.10.06-22.33.54:218][  0]LogInit: Computer: HSNEUROE258
+[2021.10.06-22.33.54:218][  0]LogInit: User: mgy0003
+[2021.10.06-22.33.54:218][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.06-22.33.54:218][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.06-22.33.54:218][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.10.06-22.33.54:218][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.06-22.33.54:218][  0]LogMemory: Process Physical Memory: 147.40 MB used, 147.41 MB peak
+[2021.10.06-22.33.54:218][  0]LogMemory: Process Virtual Memory: 131.00 MB used, 131.00 MB peak
+[2021.10.06-22.33.54:218][  0]LogMemory: Physical Memory: 8261.25 MB used,  7845.13 MB free, 16106.38 MB total
+[2021.10.06-22.33.54:218][  0]LogMemory: Virtual Memory: 134195768.00 MB used,  21962.96 MB free, 134217728.00 MB total
+[2021.10.06-22.33.54:231][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.06-22.33.54:553][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.06-22.33.54:556][  0]LogInit: Using OS detected language (en-US).
+[2021.10.06-22.33.54:556][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.06-22.33.54:572][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.06-22.33.54:808][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.06-22.33.54:825][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.06-22.33.54:879][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.06-22.33.54:879][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.06-22.33.55:341][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.10.06-22.33.55:344][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.06-22.33.55:344][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.06-22.33.55:344][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.06-22.33.55:344][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.06-22.33.55:416][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2021.10.06-22.33.55:416][  0]LogD3D11RHI:       128/0/8053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.10.06-22.33.55:420][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.06-22.33.55:420][  0]LogD3D11RHI:       0/0/8053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.06-22.33.55:467][  0]LogD3D11RHI:    2. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2021.10.06-22.33.55:467][  0]LogD3D11RHI:       128/0/8053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.10.06-22.33.55:467][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.06-22.33.55:475][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.06-22.33.55:475][  0]LogD3D11RHI:     GPU DeviceId: 0x9a49 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.06-22.33.55:475][  0]LogWindows: EnumDisplayDevices:
+[2021.10.06-22.33.55:476][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2021.10.06-22.33.55:476][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2021.10.06-22.33.55:476][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2021.10.06-22.33.55:476][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2021.10.06-22.33.55:476][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:476][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:476][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.10.06-22.33.55:477][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.10.06-22.33.55:477][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2021.10.06-22.33.55:477][  0]LogD3D11RHI:   Driver Version: 27.20.100.9749 (internal:27.20.100.9749, unified:27.20.100.9749)
+[2021.10.06-22.33.55:477][  0]LogD3D11RHI:      Driver Date: 6-24-2021
+[2021.10.06-22.33.55:477][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2021.10.06-22.33.55:599][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.10.06-22.33.55:708][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.10.06-22.33.55:708][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.10.06-22.33.55:708][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.10.06-22.33.55:714][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.10.06-22.33.55:714][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.06-22.33.55:714][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.06-22.33.55:738][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2021.10.06-22.33.56:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.06-22.33.56:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.06-22.33.56:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.06-22.33.56:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.06-22.33.56:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.06-22.33.56:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.06-22.33.56:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.06-22.33.56:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.06-22.33.56:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.06-22.33.56:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.06-22.33.56:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.06-22.33.56:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.06-22.33.56:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.06-22.33.56:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.06-22.33.56:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.06-22.33.56:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.06-22.33.56:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.06-22.33.56:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.06-22.33.56:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.06-22.33.56:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.06-22.33.56:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.06-22.33.56:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.06-22.33.56:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.06-22.33.56:931][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.06-22.33.57:027][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.06-22.33.57:362][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.06-22.33.57:819][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.06-22.33.57:819][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Intermediate/Shaders/WorkingDirectory/4876/).
+[2021.10.06-22.33.57:819][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mgy0003/AppData/Local/Temp/UnrealShaderWorkingDir/EC748FA746302452031363AAC23DB587/'.
+[2021.10.06-22.33.57:819][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.06-22.33.57:820][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.06-22.33.57:820][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.06-22.33.58:677][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.06-22.33.58:810][  0]LogDerivedDataCache: Loaded boot cache 0.13s 97MB C:/Users/mgy0003/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.06-22.33.58:810][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mgy0003/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.10.06-22.33.58:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.06-22.33.58:812][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.06-22.33.58:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.06-22.33.58:812][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.06-22.33.58:830][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.06-22.33.58:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.06-22.33.58:830][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.06-22.33.58:849][  0]LogDerivedDataCache: Speed tests for C:/Users/mgy0003/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.10.06-22.33.58:849][  0]LogDerivedDataCache: Display: Performance to C:/Users/mgy0003/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.38ms. RandomReadSpeed=129.60MBs, RandomWriteSpeed=145.53MBs. Assigned SpeedClass 'Local'
+[2021.10.06-22.33.58:850][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mgy0003/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.06-22.33.58:850][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.06-22.33.58:850][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.06-22.33.58:888][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.06-22.33.58:891][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.06-22.33.58:947][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2021.10.06-22.33.59:334][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.06-22.33.59:334][  0]LogInit: Active device profile: [000002086A424900][0000020861D1CEC0 49] Windows
+[2021.10.06-22.33.59:334][  0]LogInit: Profiles: [000002086A424900][0000020861D1CEC0 49] Windows, [000002086A3FB100][000002086A521040 49] WindowsNoEditor, [000002086A427500][000002086A5251C0 49] WindowsServer, [000002086A3FBB00][000002086A529340 49] WindowsClient, [000002086A427800][000002086A52D4C0 49] IOS, [000002086A3FA100][000002086A531640 49] iPadAir, [000002086A426000][000002086A5357C0 49] iPadAir2, [000002086A3A0A00][000002086A53DA80 49] IPadPro, [000002086A3A0B00][000002086A539AC0 49] iPadAir3, [000002086A3F9200][000002086A5400C0 49] iPadAir4, [000002086A3A3400][000002086A544240 49] iPadMini2, [000002086A3FA300][000002086A5483C0 49] iPadMini3, [000002086A3A1700][000002086A54C540 49] iPadMini4, [000002086A425100][000002086A5506C0 49] iPadMini5, [000002086A3B4300][000002086A558980 49] iPhone6, [000002086A3B4400][000002086A5549C0 49] iPodTouch6, [000002086A3A3600][0000020861D18C40 49] iPhone7, [000002086A3A1800][000002086A55CC80 49] iPodTouch7, [000002086A3B7F00][000002086A560DC0 49] iPhone5S, [000002086A3F9B00][000002086A564F00 49] iPhone6Plus, [000002086A3A0200][000002086A56D080 49] iPhone6S, [000002086A3F9D00][000002086A571200 49] iPhone6SPlus, [000002086A3A3C00][000002086A575380 49] iPhone7Plus, [000002086A3F8300][000002086A579500 49] iPhoneSE, [000002086A3A3500][000002086A57D680 49] iPhone8, [000002086A3F9700][000002086A581800 49] iPhone8Plus, [000002086A3A1100][000002086A585980 49] iPhoneX, [000002086A3F8400][000002086A589B00 49] iPhoneXS, [000002086A3A1300][000002086A58C100 49] iPhoneXSMax, [000002086A3F8D00][000002086A590280 49] iPhoneXR, [000002086A3A3800][000002086A594400 49] iPhone11, [000002086A3FA700][000002086A598580 49] iPhone11Pro, [000002086A3A3700][000002086A59C700 49] iPhone11ProMax, [000002086A3FBA00][000002086A5A0880 49] iPhoneSE2, [000002086A3A2E00][000002086A5A4A00 49] iPhone12Mini, [000002086A3FB500][000002086A5A8B80 49] iPhone12, [000002086A3A2400][000002086A5ACD00 49] iPhone12Pro, [000002086A3F8700][000002086A568E40 49] iPhone12ProMax, [000002086A3A2300][000002086A5B0F80 49] iPadPro105, [000002086A3FAA00][000002086A5B50C0 49] iPadPro129, [000002086A3A2200][000002086A5BD240 49] iPadPro97, [000002086A3FBE00][000002086A5C13C0 49] iPadPro2_129, [000002086A3A3200][000002086A5C5540 49] iPad5, [000002086A3FAD00][000002086A5C96C0 49] iPad6, [000002086A3A3300][000002086A5CD840 49] iPad7, [000002086A3F8200][000002086A5EB9C0 49] iPad8, [000002086A3A1A00][000002086A5EFB40 49] iPadPro11, [000002086A3F8F00][000002086A5F2140 49] iPadPro2_11, [000002086A3A1D00][000002086A6002C0 49] iPadPro3_129, [000002086A3FB200][000002086A604440 49] iPadPro4_129, [000002086A3A3000][000002086A6085C0 49] AppleTV, [000002086A3FB800][000002086A60C740 49] AppleTV4K, [000002086A3A0100][000002086A6108C0 49] TVOS, [000002086A3F9E00][000002086A614A40 49] Mac, [000002086A3A3B00][000002086A618BC0 49] MacClient, [000002086A3F9400][000002086A61CD40 49] MacNoEditor, [000002086A3A2C00][000002086A620EC0 49] MacServer, [000002086A3FBF00][000002086A5B9000 49] Linux, [000002086A3A2000][000002086A625140 49] LinuxAArch64, [000002086A3FA000][000002086A6BF280 49] LinuxNoEditor, [000002086A3A2500][000002086A6C33C0 49] LinuxAArch64NoEditor, [000002086A3F8E00][000002086A6CB540 49] LinuxClient, [000002086A3A3900][000002086A6CF6C0 49] LinuxAArch64Client, [000002086A3F9000][000002086A6D3840 49] LinuxServer, [000002086A3A1900][000002086A6D79C0 49] LinuxAArch64Server, [000002086A3FB000][000002086A6DBB40 49] Android, [000002086A3A0600][000002086A6DE140 49] Android_Low, [000002086A3FA600][000002086A6E22C0 49] Android_Mid, [000002086A427A00][000002086A6E6440 49] Android_High, [000002086A3B5C00][000002086A6EA5C0 49] Android_Default, [000002086A426100][000002086A6EE740 49] Android_Adreno4xx, [000002086A3B6700][000002086A6F28C0 49] Android_Adreno5xx_Low, [000002086A424A00][000002086A6F6A40 49] Android_Adreno5xx, [000002086A3B6D00][000002086A6FABC0 49] Android_Adreno6xx, [000002086A425200][000002086A6FED40 49] Android_Adreno6xx_Vulkan, [000002086A3B6800][000002086A702EC0 49] Android_Mali_T6xx, [000002086A426600][000002086A707040 49] Android_Mali_T7xx, [000002086A3B6E00][000002086A6C7180 49] Android_Mali_T8xx, [000002086A427200][000002086A70B2C0 49] Android_Mali_G71, [000002086A3B7C00][000002086A70F400 49] Android_Mali_G72, [000002086A426A00][000002086A713540 49] Android_Mali_G72_Vulkan, [000002086A3B5B00][000002086A71B6C0 49] Android_Mali_G76, [000002086A425A00][000002086A71F840 49] Android_Mali_G76_Vulkan, [000002086A3B6000][000002086A7239C0 49] Android_Mali_G77, [000002086A426D00][000002086A727B40 49] Android_Mali_G77_Vulkan, [000002086A3B7800][000002086A72A140 49] Android_Mali_G78, [000002086A426800][000002086A72E2C0 49] Android_Mali_G78_Vulkan, [000002086A3B5200][000002086A898440 49] Android_Mali_G710, [000002086A424E00][000002086A8DE5C0 49] Android_Mali_G710_Vulkan, [000002086A3B7500][000002086A8E2740 49] Android_Vulkan_SM5, [000002086A427400][000002086A8E68C0 49] Android_PowerVR_G6xxx, [000002086A3B6C00][000002086A8EAA40 49] Android_PowerVR_GT7xxx, [000002086A427C00][000002086A8EEBC0 49] Android_PowerVR_GE8xxx, [000002086A3B4E00][000002086A8F2D40 49] Android_PowerVR_GM9xxx, [000002086A425800][000002086A8F6EC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002086A3B6400][000002086A8FB040 49] Android_TegraK1, [000002086A425000][000002086A8FF1C0 49] Android_Unknown_Vulkan, [000002086A3FB300][000002086A903340 49] Lumin, [000002086A425E00][000002086A717480 49] Lumin_Desktop, [000002086A3F9500][000002086A9075C0 49] HoloLens, 
+[2021.10.06-22.33.59:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.06-22.33.59:915][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.06-22.33.59:915][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.06-22.33.59:915][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.06-22.33.59:915][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.06-22.33.59:964][  0]LogNetVersion: HandTrackingGrab 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 511953962)
+[2021.10.06-22.34.00:606][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.06-22.34.00:711][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2021.10.06-22.34.00:711][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2021.10.06-22.34.00:711][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh None./Engine/BasicShapes/Cylinder'
+[2021.10.06-22.34.00:725][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2021.10.06-22.34.00:725][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2021.10.06-22.34.00:725][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh None./Engine/BasicShapes/Plane'
+[2021.10.06-22.34.00:740][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.06-22.34.00:745][  0]LogUObjectArray: 17599 objects as part of root set at end of initial load.
+[2021.10.06-22.34.00:745][  0]LogUObjectAllocator: 4455968 out of 0 bytes used by permanent object pool.
+[2021.10.06-22.34.00:745][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.06-22.34.02:066][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AA5642504255AE0EB161A3BB4B0CEF2F | Instance: CB16E78E43EBFF7D7297E5ADBFEB5512 (HSNEUROE258-4876).
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.06-22.34.02:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.06-22.34.02:603][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.06-22.34.02:603][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.02:603][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.02:995][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.02:996][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.02:996][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.02:997][  0]LogLinker: Warning: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.02:998][  0]LogLinker: Warning: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.03:002][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.03:002][  0]LoadErrors: Failed to load /Game/VirtualReality/Meshes/Cylinder.Cylinder Referenced by Up_GEN_VARIABLE
+[2021.10.06-22.34.03:003][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.03:003][  0]LoadErrors: Failed to load /Game/VirtualReality/Meshes/Cylinder.Cylinder Referenced by Forward_GEN_VARIABLE
+[2021.10.06-22.34.03:004][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Lumin\MagicLeapPassableWorld\Content\MagicLeapARPinInfoActor.uasset: Failed to load '/Game/VirtualReality/Meshes/Cylinder': Can't find file.
+[2021.10.06-22.34.03:004][  0]LoadErrors: Failed to load /Game/VirtualReality/Meshes/Cylinder.Cylinder Referenced by Right_GEN_VARIABLE
+[2021.10.06-22.34.03:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.06-22.34.03:285][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.06-22.34.03:404][  0]LogPython: Using Python 3.7.7
+[2021.10.06-22.34.04:107][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2021.10.06-22.34.04:129][  0]LogSteamShared: Steam SDK Loaded!
+[2021.10.06-22.34.05:264][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.05:264][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.05:339][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.05:365][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.05:430][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.05:471][  0]LogUProjectInfo: Found projects:
+[2021.10.06-22.34.07:040][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.06-22.34.07:166][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.06-22.34.07:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.06-22.34.07:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.06-22.34.07:698][  0]LogCollectionManager: Loaded 0 collections in 0.002230 seconds
+[2021.10.06-22.34.07:794][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/Collections/' took 0.00s
+[2021.10.06-22.34.07:794][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/Developers/mgy0003/Collections/' took 0.00s
+[2021.10.06-22.34.07:794][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/Collections/' took 0.00s
+[2021.10.06-22.34.07:794][  0]LogOcInput: OculusInput pre-init called
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.06-22.34.08:065][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.06-22.34.08:065][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.06-22.34.08:065][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.08:065][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.08:190][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2021.10.06-22.34.08:190][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2021.10.06-22.34.08:190][  0]LeapMotionLog: Leap Plugin started v3.7
+[2021.10.06-22.34.08:345][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly even though its struct probably has a custom default constructor. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.10.06-22.34.08:345][  0]LogClass: Display: IntProperty FBodyStateDevice::DeviceId is not initialized properly. Module:BodyState File:Public/BodyStateDevice.h
+[2021.10.06-22.34.08:345][  0]LogClass: Warning: ObjectProperty FBodyStateDevice::Skeleton is not initialized properly. Module:BodyState File:Public/BodyStateDevice.h
+[2021.10.06-22.34.08:345][  0]LogClass: Warning: ByteProperty FBodyStateDeviceConfig::InputType is not initialized properly even though its struct probably has a custom default constructor. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.10.06-22.34.08:345][  0]LogClass: Display: EnumProperty FNamedBoneMeta::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2021.10.06-22.34.08:345][  0]LogClass: Display: EnumProperty FKeyedTransform::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2021.10.06-22.34.08:345][  0]LogClass: Display: EnumProperty FNamedBoneData::Name is not initialized properly. Module:BodyState File:Public/Skeleton/BodyStateSkeleton.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapFrameData::NumberOfHandsVisible is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapFrameData::FrameRate is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapFrameData::FrameId is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: BoolProperty FLeapFrameData::LeftHandVisible is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: BoolProperty FLeapFrameData::RightHandVisible is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: Int64Property FLeapFrameData::TimeStamp is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapFrameData::FinalRotationAdjustment is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::Confidence is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapHandData::Flags is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::GrabAngle is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::GrabStrength is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: ByteProperty FLeapHandData::HandType is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::PinchDistance is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::PinchStrength is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapHandData::Id is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapHandData::VisibleTime is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapDigitData::FingerId is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: BoolProperty FLeapDigitData::IsExtended is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapBoneData::PrevJoint is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapBoneData::NextJoint is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapBoneData::Rotation is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapBoneData::Width is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::Direction is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::Normal is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::Orientation is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::Position is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::StabilizedPosition is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: StructProperty FLeapPalmData::Velocity is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapPalmData::Width is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Warning: FloatProperty FLeapStats::FrameExtrapolationInMS is not initialized properly even though its struct probably has a custom default constructor. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapDevice::Baseline is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapDevice::HorizontalFOV is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: FloatProperty FLeapDevice::VerticalFOV is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: IntProperty FLeapDevice::Range is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:346][  0]LogClass: Display: 41 Uninitialized script struct members found including 2 object properties
+[2021.10.06-22.34.08:347][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly even though its struct probably has a custom default constructor. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.10.06-22.34.08:347][  0]LogAutomationTest: Warning: ObjectProperty FBodyStateDevice::Skeleton is not initialized properly. Module:BodyState File:Public/BodyStateDevice.h
+[2021.10.06-22.34.08:347][  0]LogAutomationTest: Warning: ByteProperty FBodyStateDeviceConfig::InputType is not initialized properly even though its struct probably has a custom default constructor. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.10.06-22.34.08:347][  0]LogAutomationTest: Warning: FloatProperty FLeapStats::FrameExtrapolationInMS is not initialized properly even though its struct probably has a custom default constructor. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.10.06-22.34.08:348][  0]LogEngine: Initializing Engine...
+[2021.10.06-22.34.08:370][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.10.06-22.34.08:562][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2021.10.06-22.34.08:562][  0]LogHMD: GoogleVR API created
+[2021.10.06-22.34.08:564][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.10.06-22.34.08:713][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.06-22.34.08:748][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.06-22.34.08:749][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.06-22.34.08:769][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.10.06-22.34.08:771][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.10.06-22.34.08:771][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.06-22.34.08:771][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.06-22.34.08:771][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.06-22.34.08:771][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.06-22.34.08:772][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.06-22.34.08:772][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.06-22.34.08:772][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.06-22.34.08:772][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.06-22.34.08:825][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.06-22.34.08:825][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.06-22.34.09:392][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.10.06-22.34.09:392][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.06-22.34.09:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.06-22.34.09:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.06-22.34.09:398][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.06-22.34.09:398][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.06-22.34.09:398][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.06-22.34.09:399][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.06-22.34.09:399][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.06-22.34.09:400][  0]LogInit: FAudioDevice initialized.
+[2021.10.06-22.34.09:400][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.06-22.34.09:400][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.06-22.34.09:461][  0]LogDerivedDataCache: Saved boot cache 0.06s 97MB C:/Users/mgy0003/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.10.06-22.34.09:463][  0]LogInit: Texture streaming: Enabled
+[2021.10.06-22.34.09:524][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.10.06-22.34.09:547][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.06-22.34.09:547][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.06-22.34.09:552][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.06-22.34.09:786][  0]LogInit: Transaction tracking system initialized
+[2021.10.06-22.34.09:938][  0]BlueprintLog: New page: Editor Load
+[2021.10.06-22.34.10:428][  0]LocalizationService: Localization service is disabled
+[2021.10.06-22.34.10:881][  0]TimingProfiler: Initialize
+[2021.10.06-22.34.10:881][  0]TimingProfiler: OnSessionChanged
+[2021.10.06-22.34.10:881][  0]LoadingProfiler: Initialize
+[2021.10.06-22.34.10:881][  0]LoadingProfiler: OnSessionChanged
+[2021.10.06-22.34.10:881][  0]NetworkingProfiler: Initialize
+[2021.10.06-22.34.10:882][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.06-22.34.10:882][  0]MemoryProfiler: Initialize
+[2021.10.06-22.34.10:882][  0]MemoryProfiler: OnSessionChanged
+[2021.10.06-22.34.11:565][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.06-22.34.11:565][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.06-22.34.11:602][  0]LogFileCache: Scanning file cache for directory 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/' took 0.02s
+[2021.10.06-22.34.11:602][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.11:603][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.11:603][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.11:604][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.11:604][  0]LoadErrors: Failed to load /Game/VirtualReality/Meshes/Sphere.Sphere Referenced by Sphere
+[2021.10.06-22.34.11:604][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2021.10.06-22.34.11:604][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2021.10.06-22.34.11:604][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cylinder.Cylinder'
+[2021.10.06-22.34.11:604][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2021.10.06-22.34.11:604][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2021.10.06-22.34.11:604][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2021.10.06-22.34.11:605][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2021.10.06-22.34.11:605][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.10.06-22.34.12:828][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.10.06-22.34.12:828][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.10.06-22.34.12:828][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.12:828][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.10.06-22.34.12:828][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.06-22.34.12:834][  0]SourceControl: Source control is disabled
+[2021.10.06-22.34.12:834][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.253
+[2021.10.06-22.34.12:834][  0]Cmd: MAP LOAD FILE="G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.06-22.34.12:838][  0]LightingResults: New page: Lighting Build
+[2021.10.06-22.34.12:840][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-22.34.12:840][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-22.34.12:840][  0]MapCheck: New page: Map Check
+[2021.10.06-22.34.12:840][  0]LightingResults: New page: Lighting Build
+[2021.10.06-22.34.12:844][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.06-22.34.12:847][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.06-22.34.12:955][  0]LogLinker: Warning: Asset 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/Hands/Models/HandMat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.10.06-22.34.14:316][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartupMap'.
+[2021.10.06-22.34.14:317][  0]LogAIModule: Creating AISystem for world StartupMap
+[2021.10.06-22.34.14:324][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.06-22.34.14:402][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.10.06-22.34.14:402][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.06-22.34.14:403][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.158ms to complete.
+[2021.10.06-22.34.14:403][  0]LogFileHelpers: Loading map 'StartupMap' took 1.570
+[2021.10.06-22.34.14:410][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.829
+[2021.10.06-22.34.14:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-22.34.14:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-22.34.14:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-22.34.14:561][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-22.34.14:578][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3854 classes and 949 folders.
+[2021.10.06-22.34.14:581][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.06-22.34.14:587][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.06-22.34.14:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.06-22.34.14:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.10.06-22.34.14:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.10.06-22.34.14:589][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.06-22.34.14:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.06-22.34.14:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.10.06-22.34.14:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.10.06-22.34.14:591][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.06-22.34.14:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.06-22.34.14:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.10.06-22.34.14:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.06-22.34.14:592][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.06-22.34.14:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.06-22.34.14:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.10.06-22.34.14:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.06-22.34.14:593][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.06-22.34.14:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.06-22.34.14:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.10.06-22.34.14:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:594][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.06-22.34.14:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.06-22.34.14:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.10.06-22.34.14:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:596][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.06-22.34.14:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.06-22.34.14:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.10.06-22.34.14:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.06-22.34.14:597][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.06-22.34.14:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.06-22.34.14:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.10.06-22.34.14:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:599][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.06-22.34.14:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.06-22.34.14:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.10.06-22.34.14:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.06-22.34.14:601][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.06-22.34.14:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.06-22.34.14:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.10.06-22.34.14:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.06-22.34.14:603][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.06-22.34.14:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.06-22.34.14:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.10.06-22.34.14:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:604][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.06-22.34.14:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.06-22.34.14:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:604][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.10.06-22.34.14:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.06-22.34.14:605][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.06-22.34.14:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.06-22.34.14:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:605][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.10.06-22.34.14:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.06-22.34.14:608][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.06-22.34.14:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.06-22.34.14:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.10.06-22.34.14:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.06-22.34.14:609][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.06-22.34.14:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.06-22.34.14:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:609][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.10.06-22.34.14:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:610][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.06-22.34.14:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.06-22.34.14:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.10.06-22.34.14:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:612][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.06-22.34.14:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.06-22.34.14:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.10.06-22.34.14:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.06-22.34.14:613][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.06-22.34.14:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.06-22.34.14:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:613][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.10.06-22.34.14:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.10.06-22.34.14:614][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.06-22.34.14:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.06-22.34.14:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:614][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.10.06-22.34.14:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.06-22.34.14:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.06-22.34.14:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.06-22.34.14:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.10.06-22.34.14:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.06-22.34.14:618][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.06-22.34.14:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.06-22.34.14:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.10.06-22.34.14:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.10.06-22.34.14:619][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.06-22.34.14:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.06-22.34.14:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.10.06-22.34.14:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.06-22.34.14:621][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.06-22.34.14:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.06-22.34.14:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:621][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.10.06-22.34.14:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:623][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.06-22.34.14:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.06-22.34.14:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.10.06-22.34.14:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.10.06-22.34.14:624][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.06-22.34.14:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.06-22.34.14:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.10.06-22.34.14:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.06-22.34.14:625][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.06-22.34.14:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.06-22.34.14:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.06-22.34.14:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.10.06-22.34.14:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.10.06-22.34.14:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.06-22.34.14:769][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.10.06-22.34.14:772][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.10.06-22.34.15:114][  0]LogSlate: Took 0.001256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.06-22.34.15:116][  0]LogSlate: Took 0.001052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.06-22.34.15:117][  0]LogSlate: Took 0.000842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.06-22.34.15:192][  0]LogRenderer: Reallocating scene render targets to support 660x268 Format 26 NumSamples 1 (Frame:1).
+[2021.10.06-22.34.15:357][  0]LogSlate: Took 0.001341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.06-22.34.15:432][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.06-22.34.15:432][  0]LogLoad: (Engine Initialization) Total time: 42.85 seconds
+[2021.10.06-22.34.15:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.06-22.34.15:445][  0]LeapMotionLog: ServiceMessageLoop started.
+[2021.10.06-22.34.15:445][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2021.10.06-22.34.15:446][  0]LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+[2021.10.06-22.34.15:446][  0]LogSteamController: SteamController is not available
+[2021.10.06-22.34.15:446][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2021.10.06-22.34.15:446][  0]LogGoogleVRController: Creating Input Device: GoogleVRController -- Supported
+[2021.10.06-22.34.15:446][  0]LogGoogleVRController: Successfully initialized GoogleVR Controller.
+[2021.10.06-22.34.15:447][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2021.10.06-22.34.15:450][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2021.10.06-22.34.15:451][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2021.10.06-22.34.15:453][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.15:455][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.15:456][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.15:456][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/VirtualReality/Meshes/Sphere': Can't find file.
+[2021.10.06-22.34.15:457][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2021.10.06-22.34.15:457][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cylinder': Can't find file.
+[2021.10.06-22.34.15:457][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cylinder.Cylinder'
+[2021.10.06-22.34.15:457][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2021.10.06-22.34.15:457][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2021.10.06-22.34.15:457][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2021.10.06-22.34.15:564][  0]LogAssetRegistry: Asset discovery search completed in 16.6213 seconds
+[2021.10.06-22.34.15:575][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.10.06-22.34.15:578][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.06-22.34.15:657][  0]LogSlate: Took 0.000754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.06-22.34.16:458][ 60]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.06-22.34.23:066][ 95]LogSlate: Window 'Message Log' being destroyed
+[2021.10.06-22.34.23:116][ 95]LogSlate: Window 'Message Log' being destroyed
+[2021.10.06-22.34.51:447][431]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.34.51:738][431]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.10.06-22.34.52:455][431]LogSlate: Took 0.001017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.06-22.35.06:987][ 39]BlueprintLog: New page: Compile BoxandBlockPawn
+[2021.10.06-22.35.07:043][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.06-22.35.08:105][103]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawnDC7E40E64868748363D19EA1C364D92A.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.35.08:131][103]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.35.08:131][103]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.35.14:619][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.35.15:015][707]LogSlate: Took 0.001117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.06-22.35.43:546][894]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_190.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.43:547][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.43:553][894]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_192.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.43:554][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.43:559][894]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_194.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.43:559][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.45:262][ 88]BlueprintLog: New page: Compile BP_Hand_Data_Pawn
+[2021.10.06-22.35.45:312][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.06-22.35.45:319][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_198.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.45:320][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.45:327][ 88]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_202.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.45:328][ 88]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.46:414][150]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_Pawn472B63CD4ADFFC266D81C393BDE9C568.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.35.46:447][150]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.35.46:447][150]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.35.54:853][ 87]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_204.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.54:854][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.54:859][ 87]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.54:859][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.54:865][ 87]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.54:865][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.59:919][678]BlueprintLog: New page: Compile BP_Hand_Data_Pawn
+[2021.10.06-22.35.59:965][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.06-22.35.59:973][678]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_212.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.59:973][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_29.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.59:982][678]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_216.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.35.59:983][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.02:429][857]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_Pawn6426D33347131C63505C26BC498C9DE1.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.36.02:449][857]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.36.02:449][857]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.36.22:259][910]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_218.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.22:260][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.22:269][910]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_220.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.22:270][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:357][151]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_222.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:358][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:362][151]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_224.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:363][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:367][151]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_226.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:368][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:372][151]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_228.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:372][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:377][151]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_230.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.24:378][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.25:803][311]BlueprintLog: New page: Compile BP_Hand_Data_Pawn
+[2021.10.06-22.36.25:854][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.10.06-22.36.25:861][311]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_234.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.25:862][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.25:871][311]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_238.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.25:872][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.36.26:787][371]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_Pawn8C0944894D508AA34571A7AE81D40629.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.36.26:813][371]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.36.26:813][371]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.36.42:708][882]BlueprintLog: New page: Compile BoxandBlockPawn
+[2021.10.06-22.36.42:760][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.10.06-22.36.43:694][933]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawnCDA65D1E4CCC643CF9309DAFE1B6DFFA.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.36.43:726][933]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.36.43:726][933]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.37.23:760][580]BlueprintLog: New page: Compile BoxandBlockPawn
+[2021.10.06-22.37.23:809][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.10.06-22.37.24:908][641]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn68B69A444CB7940BE646CC9B6498D126.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.37.24:939][641]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.37.24:939][641]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.38.01:725][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityObjectPickup/BP_Hand.BP_Hand
+[2021.10.06-22.38.06:427][468]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-22.38.06:427][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-22.38.10:292][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.38.12:861][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.12:862][988]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_279.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.12:863][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.15:241][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.15:242][194]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_281.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.15:243][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:554][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:555][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_283.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:556][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:565][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:566][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_285.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.25:567][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_101.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:208][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:210][318]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_287.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:211][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:216][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:218][318]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_289.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:218][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_105.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:222][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:223][318]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_291.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:224][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:231][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:233][318]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_293.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:234][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_109.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:238][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:239][318]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_295.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.36:241][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_111.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.53:573][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.53:575][800]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_297.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.53:576][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.55:523][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.55:524][962]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_299.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.55:525][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.57:572][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.57:573][127]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_301.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.57:574][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.59:337][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.59:340][265]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_303.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.38.59:341][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.01:203][418]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_71.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.01:205][418]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_305.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.01:206][418]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_121.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.06:437][551]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.39.09:069][799]BlueprintLog: New page: Compile BP_HandPawn
+[2021.10.06-22.39.09:126][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.06-22.39.09:132][799]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_302.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:133][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:135][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_75.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:136][799]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_311.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:137][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_127.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:144][799]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_308.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:145][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_125.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:147][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:148][799]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_317.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.09:149][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_133.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.10:037][846]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_HandPawn533F761C4422ED932B6DE4AFCD9935B7.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_HandPawn.uasset'
+[2021.10.06-22.39.10:069][846]AssetCheck: New page: Asset Save: BP_HandPawn
+[2021.10.06-22.39.10:069][846]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.39.17:156][300]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.39.20:688][456]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.39.25:340][730]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.39.30:695][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.30:696][203]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_319.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.30:697][203]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_135.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.32:876][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.32:877][404]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_321.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.32:878][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_137.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:669][780]BlueprintLog: New page: Compile BP_HandPawn
+[2021.10.06-22.39.36:720][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.06-22.39.36:729][780]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_318.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:730][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_135.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:733][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_87.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:734][780]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_327.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:735][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_143.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:745][780]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_324.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:746][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_141.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:749][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:750][780]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_333.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.36:751][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_149.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.37:886][861]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_HandPawnB3D1E2064D4895843856BFA514E95945.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_HandPawn.uasset'
+[2021.10.06-22.39.37:912][861]AssetCheck: New page: Asset Save: BP_HandPawn
+[2021.10.06-22.39.37:912][861]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.39.40:743][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.40:744][138]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_335.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.40:745][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_151.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.40:750][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.40:751][138]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_337.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.40:752][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_153.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:164][593]BlueprintLog: New page: Compile BP_HandPawn
+[2021.10.06-22.39.54:217][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.10.06-22.39.54:225][593]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_334.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:226][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_151.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:229][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_99.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:231][593]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_343.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:232][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_159.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:242][593]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_340.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:243][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_157.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:246][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_103.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:247][593]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_349.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.54:248][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_165.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.39.55:025][640]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_HandPawnC8920B284C3677EFD8D27AB34F05B877.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_HandPawn.uasset'
+[2021.10.06-22.39.55:052][640]AssetCheck: New page: Asset Save: BP_HandPawn
+[2021.10.06-22.39.55:052][640]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.40.08:268][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.06-22.40.10:058][966]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.06-22.40.10:134][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.10.06-22.40.10:157][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.10.06-22.40.10:175][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.06-22.40.29:488][871]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn9A9D87AE4FE99426851295B0D10DA6E0.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.40.29:518][871]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.40.29:518][871]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.40.53:600][ 55]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.40.53:609][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_167.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.53:610][ 55]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_351.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.53:610][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_105.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:107][209]BlueprintLog: New page: Compile BP_HandPawn
+[2021.10.06-22.40.55:160][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.10.06-22.40.55:168][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_348.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:169][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_165.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:172][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_109.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:173][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_357.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:174][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_173.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:183][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_354.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:184][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_171.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:186][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_113.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:188][209]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_363.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.55:188][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_179.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.59:306][437]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.40.59:314][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_115.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.59:315][437]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_365.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.40.59:316][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_181.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.03:262][696]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.41.03:271][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_117.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.03:272][696]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_367.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.03:272][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.07:350][953]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.06-22.41.07:357][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_119.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.07:358][953]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_369.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.07:359][953]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_185.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:319][ 52]BlueprintLog: New page: Compile BP_HandPawn
+[2021.10.06-22.41.08:362][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.10.06-22.41.08:369][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_366.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:370][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:373][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_123.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:374][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_375.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:374][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_191.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:384][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_372.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:384][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_189.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:387][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_127.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:387][ 52]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_381.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.08:388][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_HandPawn_C_CHILDACTOR_197.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.41.09:247][103]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_HandPawn74183CBF41AE92980F98F88E244E37FF.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_HandPawn.uasset'
+[2021.10.06-22.41.09:271][103]AssetCheck: New page: Asset Save: BP_HandPawn
+[2021.10.06-22.41.09:271][103]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.41.18:210][ 37]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_HandPawn381B1348469C4A78D4823C9784CB3AFD.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_HandPawn.uasset'
+[2021.10.06-22.41.18:245][ 37]AssetCheck: New page: Asset Save: BP_HandPawn
+[2021.10.06-22.41.18:246][ 37]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_HandPawn.BP_HandPawn
+[2021.10.06-22.42.02:165][ 64]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn55E7EEDE4922F176D969EAA12D38C352.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.42.02:193][ 64]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.42.02:193][ 64]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.42.13:990][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.10.06-22.42.14:290][243]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/StartupMapDF73E7874DD2FB5740AD7591E4BCA3A9.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.10.06-22.42.14:475][243]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/StartupMap_BuiltDataB9423EB04EF5DDD7B0C6529E4AC91EF4.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2021.10.06-22.42.14:516][243]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.06-22.42.14:516][243]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData
+[2021.10.06-22.42.14:516][243]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.10.06-22.43.12:687][696]BlueprintLog: New page: Compile BoxandBlockPawn
+[2021.10.06-22.43.12:735][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.10.06-22.43.13:602][742]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawnDE668C1646E7611C43793186E1B4F9F3.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.43.13:629][742]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.43.13:629][742]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.43.35:044][683]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_384.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.43.35:044][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_201.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.07:336][716]BlueprintLog: New page: Compile BP_Hand_Data_Pawn
+[2021.10.06-22.44.07:392][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.06-22.44.07:401][716]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_388.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.07:402][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_205.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.07:412][716]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_392.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.07:413][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_209.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.08:434][766]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_Pawn6DF845CC4EF53B7BFF319E9E9E4D9593.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.44.08:468][766]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.44.08:468][766]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.44.25:872][254]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_394.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.25:873][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_211.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.39:836][529]BlueprintLog: New page: Compile BP_Hand_Data_Pawn
+[2021.10.06-22.44.39:895][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.06-22.44.39:903][529]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_398.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.39:903][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_215.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.39:912][529]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_402.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.39:913][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Hand_Data_Pawn_C_CHILDACTOR_219.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.10.06-22.44.40:638][566]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_PawnCFDC7408478242E6A7EB5B9444A8E777.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.44.40:663][566]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.44.40:663][566]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.45.31:396][129]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BP_Hand_Data_PawnD3EEF9DD4DB5B634DE6204AEA5BA7AF1.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.uasset'
+[2021.10.06-22.45.31:422][129]AssetCheck: New page: Asset Save: BP_Hand_Data_Pawn
+[2021.10.06-22.45.31:422][129]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BP_Hand_Data_Pawn.BP_Hand_Data_Pawn
+[2021.10.06-22.46.06:118][563]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn1FB56F2D4EDB965D6A83D3AC257DD86A.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.46.06:146][563]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.46.06:146][563]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.46.17:589][586]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn50F00B8D453F276639DEA3AF5424555D.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.46.17:614][586]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.46.17:614][586]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.46.33:964][233]BlueprintLog: New page: Compile BoxandBlockPawn
+[2021.10.06-22.46.34:014][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.06-22.46.34:773][272]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawnE3AE240D4B515745673DC09F752E45A3.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.46.34:797][272]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.46.34:797][272]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.46.40:399][827]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/BoxandBlockPawn0ACABDB94DF3C89187829A96A4E4A9C6.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityObjectPickup/BoxandBlockPawn.uasset'
+[2021.10.06-22.46.40:424][827]AssetCheck: New page: Asset Save: BoxandBlockPawn
+[2021.10.06-22.46.40:424][827]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityObjectPickup/BoxandBlockPawn.BoxandBlockPawn
+[2021.10.06-22.46.42:235][ 12]LogSlate: Window 'BP_HandPawn' being destroyed
+[2021.10.06-22.46.42:239][ 12]LogSlate: Window 'BP_HandPawn' being destroyed
+[2021.10.06-22.46.42:276][ 12]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-22.46.42:276][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-22.46.42:359][ 12]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.06-22.46.42:359][ 12]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-22.46.42:359][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-22.46.42:442][ 12]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.06-22.46.42:442][ 12]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-22.46.42:442][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-22.47.16:384][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.10.06-22.47.16:668][470]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/StartupMapFEDC567743766E71895267BB0E18EBE5.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.10.06-22.47.16:838][470]LogSavePackage: Moving 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Saved/StartupMap_BuiltData2F9465504B7596E5177F7A87686EFC99.tmp' to 'G:/My Drive/DoD Restore/Compressed Games/BB_Task_HandDataDragonfly/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2021.10.06-22.47.16:869][470]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.06-22.47.16:869][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/StartupMap_BuiltData.StartupMap_BuiltData
+[2021.10.06-22.47.16:869][470]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.10.06-22.52.54:473][344]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap
+[2021.10.06-22.53.54:258][921]BlueprintLog: New page: Compile StartupMap
+[2021.10.06-22.53.54:298][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.06-22.55.23:473][281]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{02381ed9-d5e1-454e-b4bb-ce99fe6a174f}.
+[2021.10.06-22.55.23:473][281]LogRenderer: Reallocating scene render targets to support 660x288 Format 26 NumSamples 1 (Frame:64977).
+[2021.10.06-22.55.23:529][281]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.06-22.55.23:541][281]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.06-22.55.23:541][281]LogAudioMixer: Display: 1: FrontRight
+[2021.10.06-22.56.04:108][522]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ffafceac-5a93-431f-8c61-2f4d72014341}.
+[2021.10.06-22.56.05:203][522]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 887a0005) (887a0007)
+[2021.10.06-22.56.05:203][522]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:331 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2021.10.06-22.56.05:203][522]LogD3D11RHI: [Aftermath] GDynamicRHI=0000020840AF7B80, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.10.06-22.56.05:203][522]LogWindows: Windows GetLastError: The operation completed successfully. (0)
